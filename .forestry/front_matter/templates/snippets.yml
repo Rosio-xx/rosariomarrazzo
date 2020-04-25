@@ -1,0 +1,11 @@
+---
+label: Snippets
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Title
+pages:
+  - exampleSite/content/snippets/_index.md
+  - exampleSite/content/snippets/first/index.md
+  - exampleSite/content/snippets/second/index.md
