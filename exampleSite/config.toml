@@ -1,8 +1,8 @@
 baseurl = "http://www.example.com"
 canonifyurls = true
-defaultcontentlanguage = "it"
+defaultcontentlanguage = "en"
 disqusShortname = "yourdiscussshortname"
-languagecode = "it"
+languagecode = "en"
 paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -52,6 +52,7 @@ description = "Sítio pessoal de João Ninguém"
 footercontent = "Coloque algum texto aqui."
 info = "Digital Transformation Student"
 keywords = "blog,desenvolvedor,pessoal"
+since = 9
 [params]
 author = "John Doe"
 avatarurl = "images/avatar.jpg"
