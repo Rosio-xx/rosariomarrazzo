@@ -28,7 +28,7 @@ name = "Contact me"
 url = "contact/"
 weight = 5
 [languages.pt-br]
-languagename = "Português"
+languagename = "Italiano"
 title = "João Ninguém"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
