@@ -47,10 +47,10 @@ name = "Contato"
 url = "contact/"
 weight = 5
 [languages.pt-br.params]
-author = "João Ninguém"
+author = "Rosario Marrazzo"
 description = "Sítio pessoal de João Ninguém"
 footercontent = "Coloque algum texto aqui."
-info = "Full Stack DevOps e Mágico"
+info = "Digital Transformation Student"
 keywords = "blog,desenvolvedor,pessoal"
 [params]
 author = "John Doe"
