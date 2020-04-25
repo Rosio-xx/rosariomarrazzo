@@ -29,7 +29,7 @@ url = "contact/"
 weight = 5
 [languages.pt-br]
 languagename = "Italiano"
-title = "João Ninguém"
+title = "Rosario Marrazzo"
 [[languages.pt-br.menu.main]]
 name = "Sobre"
 url = "about/"
