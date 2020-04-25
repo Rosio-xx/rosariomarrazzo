@@ -54,7 +54,7 @@ info = "Digital Transformation Student"
 keywords = "blog,desenvolvedor,pessoal"
 since = 9
 [params]
-author = "John Doe"
+author = "Rosario Marrazzo"
 avatarurl = "images/avatar.jpg"
 colorscheme = "auto"
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -66,7 +66,7 @@ footercontent = "Enter a text here."
 hideCopyright = false
 hideCredits = false
 hideFooter = false
-info = "Full Stack DevOps and Magician"
+info = "Digital Transformation Student"
 keywords = "blog,developer,personal"
 maxSeeAlsoItems = 5
 rtl = false
