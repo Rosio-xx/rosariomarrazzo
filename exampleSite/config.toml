@@ -1,8 +1,8 @@
 baseurl = "http://www.example.com"
 canonifyurls = true
-defaultcontentlanguage = "it-it"
+defaultcontentlanguage = "it"
 disqusShortname = "yourdiscussshortname"
-languagecode = "it-it"
+languagecode = "it"
 paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -27,26 +27,26 @@ weight = 3
 name = "Contact me"
 url = "contact/"
 weight = 5
-[languages.it-it]
+[languages.it]
 languagename = "Italiano"
 title = "Rosario Marrazzo"
-[[languages.it-it.menu.main]]
+[[languages.it.menu.main]]
 name = "Chi sono"
 url = "about/"
 weight = 1
-[[languages.it-it.menu.main]]
+[[languages.it.menu.main]]
 name = "Blog"
 url = "posts/"
 weight = 2
-[[languages.it-it.menu.main]]
+[[languages.it.menu.main]]
 name = "Progetti"
 url = "projects/"
 weight = 3
-[[languages.it-it.menu.main]]
+[[languages.it.menu.main]]
 name = "Contattami"
 url = "contact/"
 weight = 5
-[languages.it-it.params]
+[languages.it.params]
 author = "Rosario Marrazzo"
 description = "Sítio pessoal de João Ninguém"
 footercontent = "Coloque algum texto aqui."
