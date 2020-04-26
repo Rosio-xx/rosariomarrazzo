@@ -1,6 +1,6 @@
 ---
-title: Sobre Hugo
+title: Chi sono
 slug: about
----
 
-Em construção... Aguarde!
+---
+In costruzione
