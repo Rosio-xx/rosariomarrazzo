@@ -1,8 +1,8 @@
 baseurl = "http://www.example.com"
 canonifyurls = true
-defaultcontentlanguage = "it-it"
+defaultcontentlanguage = "it"
 disqusShortname = "yourdiscussshortname"
-languagecode = "it-it"
+languagecode = "it"
 paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
