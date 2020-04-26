@@ -1,6 +1,6 @@
 ---
-title: Projetos
+title: Progetti
 slug: projects
----
 
-Em construção... Aguarde!
+---
+In costruzione...resta in attesa!
