@@ -84,11 +84,6 @@ icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/rosariomarrazzo"
 weight = 4
-[[params.social]]
-icon = "fab fa-medium"
-name = "Medium"
-url = "https://medium.com/@johndoe"
-weight = 5
 [taxonomies]
 category = "categories"
 series = "series"
