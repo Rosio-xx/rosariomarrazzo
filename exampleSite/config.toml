@@ -31,7 +31,7 @@ weight = 5
 languagename = "Italiano"
 title = "Rosario Marrazzo"
 [[languages.it-it.menu.main]]
-name = "Sobre"
+name = "Chi sono"
 url = "about/"
 weight = 1
 [[languages.it-it.menu.main]]
@@ -39,11 +39,11 @@ name = "Blog"
 url = "posts/"
 weight = 2
 [[languages.it-it.menu.main]]
-name = "Projetos"
+name = "Progetti"
 url = "projects/"
 weight = 3
 [[languages.it-it.menu.main]]
-name = "Contato"
+name = "Contattami"
 url = "contact/"
 weight = 5
 [languages.it-it.params]
@@ -70,7 +70,7 @@ info = "Digital Transformation Student"
 keywords = "blog,developer,personal"
 maxSeeAlsoItems = 5
 rtl = false
-since = 2019
+since = 2020
 [params.fathomAnalytics]
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
