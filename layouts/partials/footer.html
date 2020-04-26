@@ -7,11 +7,11 @@
       {{ if not .Site.Params.hideCopyright }}
         ©
         {{ now.Year }}
-        {{ with .Site.Params.Author }} {{ . }} {{ end }}
+        {{ . }} {{ end }}
       {{ end }}
       {{ if not .Site.Params.hideCredits }}
         {{ if not .Site.Params.hideCopyright }} · {{ end }}
-        {{ i18n "powered_by" }} Made with ❤️.
+        {{ i18n "powered_by" }} Made with ❤️ {{ with .Site.Params.Author }} .
       {{ end }}
       {{ if .Site.Params.commit }}
         {{ if .GitInfo }}
