@@ -1,8 +1,8 @@
 baseurl = "http://www.example.com"
 canonifyurls = true
-defaultcontentlanguage = "it"
+defaultcontentlanguage = "it-it"
 disqusShortname = "yourdiscussshortname"
-languagecode = "it"
+languagecode = "it-it"
 paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -27,26 +27,26 @@ weight = 3
 name = "Contact me"
 url = "contact/"
 weight = 5
-[languages.it]
+[languages.it-it]
 languagename = "Italiano"
 title = "Rosario Marrazzo"
-[[languages.it.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Chi sono"
 url = "about/"
 weight = 1
-[[languages.it.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Blog"
 url = "posts/"
 weight = 2
-[[languages.it.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Progetti"
 url = "projects/"
 weight = 3
-[[languages.it.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Contattami"
 url = "contact/"
 weight = 5
-[languages.it.params]
+[languages.it-it.params]
 author = "Rosario Marrazzo"
 description = "Sítio pessoal de João Ninguém"
 footercontent = "Coloque algum texto aqui."
@@ -60,7 +60,7 @@ colorscheme = "auto"
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 custom_css = []
 custom_js = []
-dateformat = "January 2, 2006"
+dateformat = "2 Gennaio 2006"
 description = "Sito personale di Rosario Marrazzo"
 footercontent = ""
 hideCopyright = false
