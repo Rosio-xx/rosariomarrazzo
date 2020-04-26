@@ -1,8 +1,8 @@
 baseurl = "http://www.example.com"
 canonifyurls = true
-defaultcontentlanguage = "pt-br"
+defaultcontentlanguage = "it-it"
 disqusShortname = "yourdiscussshortname"
-languagecode = "pt-br"
+languagecode = "it-it"
 paginate = 20
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -13,40 +13,40 @@ title = "Rosario Marrazzo"
 languagename = "English"
 [[languages.en.menu.main]]
 name = "About"
-url = "about/"
+url = "en/about/"
 weight = 1
 [[languages.en.menu.main]]
 name = "Blog"
-url = "posts/"
+url = "en/posts/"
 weight = 2
 [[languages.en.menu.main]]
 name = "Projects"
-url = "projects/"
+url = "en/projects/"
 weight = 3
 [[languages.en.menu.main]]
 name = "Contact me"
 url = "contact/"
 weight = 5
-[languages.pt-br]
+[languages.it-it]
 languagename = "Italiano"
 title = "Rosario Marrazzo"
-[[languages.pt-br.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Sobre"
 url = "about/"
 weight = 1
-[[languages.pt-br.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Blog"
 url = "posts/"
 weight = 2
-[[languages.pt-br.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Projetos"
 url = "projects/"
 weight = 3
-[[languages.pt-br.menu.main]]
+[[languages.it-it.menu.main]]
 name = "Contato"
 url = "contact/"
 weight = 5
-[languages.pt-br.params]
+[languages.it-it.params]
 author = "Rosario Marrazzo"
 description = "Sítio pessoal de João Ninguém"
 footercontent = "Coloque algum texto aqui."
