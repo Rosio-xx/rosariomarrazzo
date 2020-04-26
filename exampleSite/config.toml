@@ -31,7 +31,7 @@ weight = 5
 languagename = "Italiano"
 title = "Rosario Marrazzo"
 [[languages.it-it.menu.main]]
-name = "Chi sono"
+name = "Chi Sono"
 url = "about/"
 weight = 1
 [[languages.it-it.menu.main]]
