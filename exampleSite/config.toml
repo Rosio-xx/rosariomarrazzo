@@ -75,16 +75,6 @@ since = 2019
 serverURL = "analytics.example.com"
 siteID = "ABCDE"
 [[params.social]]
-icon = "fab fa-github"
-name = "Github"
-url = "https://github.com/johndoe/"
-weight = 1
-[[params.social]]
-icon = "fab fa-gitlab"
-name = "Gitlab"
-url = "https://gitlab.com/johndoe/"
-weight = 2
-[[params.social]]
 icon = "fab fa-twitter"
 name = "Twitter"
 url = "https://twitter.com/johndoe/"
@@ -92,20 +82,13 @@ weight = 3
 [[params.social]]
 icon = "fab fa-linkedin"
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/rosariomarrazzo"
 weight = 4
 [[params.social]]
 icon = "fab fa-medium"
 name = "Medium"
 url = "https://medium.com/@johndoe"
 weight = 5
-[[params.social]]
-icon = "fas fa-rss"
-name = "RSS"
-rel = "alternate"
-type = "application/rss+xml"
-url = "https://myhugosite.com/index.xml"
-weight = 6
 [taxonomies]
 category = "categories"
 series = "series"
