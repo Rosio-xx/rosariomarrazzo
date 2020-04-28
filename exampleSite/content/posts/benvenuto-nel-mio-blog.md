@@ -1,9 +1,10 @@
 ---
 title: Benvenuto nel mio blog!
 date: 2020-04-28T21:00:00+02:00
-slug: ''
+slug: benvenuto
 tags: []
-categories: []
+categories:
+- blog
 series: []
 externalLink: ''
 description: ''
